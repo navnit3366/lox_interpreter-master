@@ -1,0 +1,20 @@
+a>b; ag;
+b < a;
+asdf;
+asdc;
+asd;
+a > b
+(a > b) ? return a : return b.;
+x = (a > b) ? return a : return b 
+!
+*
+&
+/* f
+/*&
+v*/
+&
+&
+
+class
+//&
+&
